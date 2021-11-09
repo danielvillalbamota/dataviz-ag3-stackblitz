@@ -12,6 +12,8 @@ var visualization = d3plus.viz()
   .y("value")
   .draw()
 
+//Reutilizar código desde
+// http://jsfiddle.net/skfdk1ao/13/
   var data = [
     {"year": 1991, "name":"alpha", "value": 15},
     {"year": 1991, "name":"beta", "value": 10},
